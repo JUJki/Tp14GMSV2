@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "155073939949",
+    "firebase_url": "https://listing-courses.firebaseio.com",
+    "project_id": "listing-courses",
+    "storage_bucket": "listing-courses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155073939949:android:cf2606a7aa07fa2e",
+        "android_client_info": {
+          "package_name": "com.listingcourses.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155073939949-79ir3r0oi13uqb44st54eeonk1dkmc07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZuRn-Llbu1SxlPuPsnmdKrApKEhFyKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
